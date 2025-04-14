@@ -8,7 +8,7 @@ nltk
 python-dotenv
 scikit-learn
 numpy
-pinecone-client
+pinecone
 google-generativeai
 aiohttp
 pydantic
