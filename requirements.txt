@@ -9,3 +9,7 @@ python-dotenv
 scikit-learn
 numpy
 pinecone-client
+google-generativeai
+aiohttp
+pydantic
+python-multipart
